@@ -1,0 +1,12 @@
+Multimodal Sentiment Analysis - Final Evaluation Report
+=======================================================
+
+              precision    recall  f1-score   support
+
+    Negative       0.92      0.91      0.91       319
+     Neutral       0.93      0.92      0.92       393
+    Positive       0.90      0.92      0.91       288
+
+    accuracy                           0.92      1000
+   macro avg       0.91      0.92      0.91      1000
+weighted avg       0.92      0.92      0.92      1000
