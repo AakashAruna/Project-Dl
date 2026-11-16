@@ -1,0 +1,6 @@
+original_path,processed_path,sample_rate
+C:\project_1\ADVANCED_MULTIMODAL_SENTIMENT\datasets\common_voice\audio_dataset\cv-invalid\cv-invalid\sample-000000.mp3,C:\project_1\ADVANCED_MULTIMODAL_SENTIMENT\processed\audio\sample-000000.wav,16000
+C:\project_1\ADVANCED_MULTIMODAL_SENTIMENT\datasets\common_voice\audio_dataset\cv-invalid\cv-invalid\sample-000001.mp3,C:\project_1\ADVANCED_MULTIMODAL_SENTIMENT\processed\audio\sample-000001.wav,16000
+C:\project_1\ADVANCED_MULTIMODAL_SENTIMENT\datasets\common_voice\audio_dataset\cv-invalid\cv-invalid\sample-000002.mp3,C:\project_1\ADVANCED_MULTIMODAL_SENTIMENT\processed\audio\sample-000002.wav,16000
+C:\project_1\ADVANCED_MULTIMODAL_SENTIMENT\datasets\common_voice\audio_dataset\cv-invalid\cv-invalid\sample-000003.mp3,C:\project_1\ADVANCED_MULTIMODAL_SENTIMENT\processed\audio\sample-000003.wav,16000
+C:\project_1\ADVANCED_MULTIMODAL_SENTIMENT\datasets\common_voice\audio_dataset\cv-invalid\cv-invalid\sample-000004.mp3,C:\project_1\ADVANCED_MULTIMODAL_SENTIMENT\processed\audio\sample-000004.wav,16000
